@@ -3,7 +3,7 @@
 # @author: hyt
 # @contact: 2621408918@qq.com
 # 导入方法
-from httprequests import http_requests
+from httpre import http_requests
 from R_W_excels import read_data
 from R_W_excels import wite_data
 
